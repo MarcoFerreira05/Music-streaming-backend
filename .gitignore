@@ -71,3 +71,6 @@ small/
 big/
 Dados-fase1
 valgrind/
+
+#VSCode
+.vscode/
